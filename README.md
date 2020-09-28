@@ -1,8 +1,11 @@
-# lifeizq.github.io
+＃电视直播源
 
 lifeizq的个人博客
 
-                          播放器下载PC＆安卓:
+播放器PC:https://guihet.com/blackbird-player.html
 
-                          电视直播源:https://lifeizq.github.io/zbylf.txt
+播放器安卓：https://fsylr.com/33870.html
+
+电视直播源：https://lifeizq.github.io/zbylf.txt
+
 
